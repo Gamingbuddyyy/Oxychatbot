@@ -1,6 +1,6 @@
 {
-    "name": "Vick Ai", 
-    "logo": "https://te.legra.ph/file/50131d5f2ff665829effe.jpg",
+    "name": "papa chatbot", 
+    "logo": "https://graph.org/file/6b1e6a6b8b0bb4934689f.jpg",
     "description": "An Advanced Telegram UserId Chatbot.",
     "env": {
         "STRING": {
